@@ -1,0 +1,8 @@
+[Activity]
+name = Boxes
+activity_version = 22
+host_version = 1
+bundle_id = mulawa.Boxes
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
